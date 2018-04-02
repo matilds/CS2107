@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Apr  2 12:51:09 2018
+Invocation: foremost all haiku.jpg 
+Output directory: /home/matilds/CS2107/Assignment II/section_b/2_1/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: haiku.jpg
+Start: Mon Apr  2 12:51:10 2018
+Length: 31 KB (32586 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      31 KB 	          0 	 
+Finish: Mon Apr  2 12:51:10 2018
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Apr  2 12:51:10 2018

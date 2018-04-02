@@ -1,0 +1,5 @@
+def main():
+    with open("data.blob") as f:
+        for line in f:
+            if "real" in line:
+                print line
